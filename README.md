@@ -8,6 +8,7 @@ Aim is to build an ML workflow (consisting of 3 models) that could be used withi
 ## Project Overview
 Humans are excellent at vision, our brain is very powerful in visual recognition. Given a dog, one can easily detect it’s breed the only condition is you be aware of all the dog breeds on this planet! Now this becomes a quite challenging task for a normal human. Consider you love a specific dog breed(say, labrador) and want to adopt a dog of the same breed, you go to shop and bring home your lovely new friend. How do you know if that’s the correct dog breed you have got?? Many times it becomes hard for humans to identify the dog’s breed. For example how about classifying the two dog images given below.<br>
 <img src='imagesForREADME/Screenshot from 2020-05-05 15-48-19.png'>
+
 So, this becomes a tough job. Here is when the need for Machine Learning/Deep Learning comes into the picture. Computer Vision helps you build machine learning models where you train a model to recognize the dog breed! This makes your job easy! CNN was a huge invention in deep learning, this gave a boost to lots of applications in visual recognition. I will walk you through how to build a CNN from scratch using Pytorch and leverage some of the popular CNN architectures for our image classification task!<br>
 
 ## Dataset
